@@ -6,7 +6,7 @@ I also have a strong interest in cybersecurity and spend part of my free time pl
 ## 🔥 Projects
 Here is a seleciton of some of the projects I've been working on, both in my studies and in my free time:
 
-- **Menumatic**: Menumatic-app: A mealplan suggestion service inspired by dating apps. In this project I worked on a Spring boot API server and a PostgreSQL database. Link TBD.
+- **Menumatic**: Menumatic-app: A mealplan suggestion service inspired by dating apps. In this project I worked on a Spring boot API server and a PostgreSQL database.
 
 More coming soon!
 
