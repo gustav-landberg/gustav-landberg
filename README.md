@@ -1,6 +1,7 @@
 # Hi there, I'm Gustav Landberg
 
-Welcome to my GitHub profile! I'm currently studying a five year programme in Information and Communication engineering at KTH.
+Welcome to my GitHub profile! 
+I'm currently studying a five year programme in Information and Communication engineering at KTH.
 I have a passion for all things low-level, whether that be systems programming in a language like C or Rust, or developing networked applications.
 I also have a strong interest in cybersecurity and spend part of my free time playing Capture The Flag (CTF) challenges, currently focusing on reverse engineering challenges.
 ## 🔥 Projects
