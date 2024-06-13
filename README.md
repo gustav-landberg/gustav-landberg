@@ -1,4 +1,4 @@
-# Hi there, I'm Gustav Landberg
+# Hi there!
 
 Welcome to my GitHub profile! 
 I'm currently studying a five year programme in Information and Communication Engineering at KTH.
