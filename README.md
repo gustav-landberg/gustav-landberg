@@ -12,7 +12,7 @@ Here is a selection of some of the projects I've been working on, both in my stu
 More coming soon!
 
 ### 💻 Currently working on:
-An emulator in Rust, which I may choose to publish on my profile in the future.
+A gameboy emulator in Rust.
 ## 📫 Contact
 [You can find my LinkedIn profile here](https://www.linkedin.com/in/gustav-landberg-615a31182).
 ## Favorite languages (in rough order)
