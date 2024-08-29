@@ -6,7 +6,6 @@ Currently studying ICT Engineering at KTH.
 
 ### 💻 Currently working on:
 - A gameboy emulator in Rust. Planning to release a overview of my development process when done. Project somewhat on hiatus, rendering semi complete
-- Reading *Black Hat GraphQL*
 ## Contact
 [You can find my LinkedIn profile here](https://www.linkedin.com/in/gustav-landberg-615a31182).
 ## Favorite languages (in rough order)
