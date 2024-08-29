@@ -5,9 +5,10 @@ I like systems programming and cybersecurity stuff.
 Currently studying ICT Engineering at KTH.
 
 ### 💻 Currently working on:
-- A gameboy emulator in Rust. Planning to release a overview of my development process when done. Project somewhat on hiatus, rendering semi complete, but debugging remains.
 - Learning to shellcode for pentesting and CTFs
 - Cryptopal challenges
+#### Paused
+- - A gameboy emulator in Rust. Planning to release a overview of my development process when done. Project on hiatus, rendering semi complete, but debugging remains.
 ## Contact
 [You can find my LinkedIn profile here](https://www.linkedin.com/in/gustav-landberg-615a31182).
 ## Favorite languages (in rough order)
