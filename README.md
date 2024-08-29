@@ -5,7 +5,7 @@ I like systems programming and cybersecurity stuff.
 Currently studying ICT Engineering at KTH.
 
 ### 💻 Currently working on:
-- A gameboy emulator in Rust. Planning to release a overview of my development process when done. Project somewhat on hiatus, rendering semi complete
+- A gameboy emulator in Rust. Planning to release a overview of my development process when done. Project somewhat on hiatus, rendering semi complete, but debugging remains.
 - Learning to shellcode for pentesting and CTFs
 - Cryptopal challenges
 ## Contact
