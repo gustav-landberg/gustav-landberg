@@ -6,7 +6,7 @@ Currently studying ICT Engineering at KTH.
 
 ### 💻 Currently working on:
 - Learning to shellcode for pentesting and CTFs
-- Cryptopal challenges in Rust
+- [Cryptopal challenges in Rust](https://github.com/gustav-landberg/cryptopals-challs)
 #### Paused
 - A gameboy emulator in Rust. Planning to release a overview of my development process when done. Project on hiatus, rendering semi complete, but debugging remains.
 ## Contact
