@@ -1,7 +1,5 @@
 # Hi there!
 
-I like systems programming and cybersecurity stuff.
-
 Currently studying ICT Engineering at KTH.
 
 ### 💻 Currently working on:
