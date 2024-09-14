@@ -7,6 +7,9 @@ Currently studying ICT Engineering at KTH.
 - [Cryptopal challenges in Rust](https://github.com/gustav-landberg/cryptopals-challs)
 #### Paused
 - A gameboy emulator in Rust. Planning to release a overview of my development process when done. Project on hiatus, rendering semi complete, but debugging remains.
+#### Finished
+- Menumatic. Co-authored design and implementation of PSQL and RESTful API written in Java. 
+  Part of II1305 Project Course taken at KTH.
 ## Contact
 [You can find my LinkedIn profile here](https://www.linkedin.com/in/gustav-landberg-615a31182).
 ## Favorite languages (in rough order)
